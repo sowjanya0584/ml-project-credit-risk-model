@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
 # Path to the saved model and its components
-MODEL_PATH = '/Users/kalyanapu/Documents/Code/Learn_Python/Project2_CSCal/artifacts/model_data.joblib'
+MODEL_PATH = 'artifacts/model_data.joblib'
 
 
 # Load the model and its components
